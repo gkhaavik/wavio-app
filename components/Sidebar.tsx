@@ -21,23 +21,23 @@ const sidebar = [
         icon: compassIcon,
         link: '/discover'
     },
-    {
-        text: 'Favorites',
-        icon: heartIcon,
-        link: '/favorites'
-    },
-    {
-        text: 'Notifications',
-        icon: bellIcon,
-        link: '/notifications'
+    // {
+    //     text: 'Favorites',
+    //     icon: heartIcon,
+    //     link: '/favorites'
+    // },
+    // {
+    //     text: 'Notifications',
+    //     icon: bellIcon,
+    //     link: '/notifications'
 
-    },
-    {
-        text: 'Activity',
-        icon: notificationIcon,
-        link: '/activity'
+    // },
+    // {
+    //     text: 'Activity',
+    //     icon: notificationIcon,
+    //     link: '/activity'
 
-    },
+    // },
     {
         text: 'Settings',
         icon: settingsIcon,
