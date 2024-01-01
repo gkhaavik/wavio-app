@@ -1,6 +1,11 @@
-# Getting Started with Next.js and Tauri Project
+# Getting Started with Wavio
 
 This project is a web application built with Next.js and packaged with Tauri for a native desktop experience.
+
+It is a simple audio player that can play .wav files. Atleast that is the goal.
+
+<!-- insert preview.png from docs/ -->
+![Preview](docs/preview.png)
 
 ## Prerequisites
 
